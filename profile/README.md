@@ -1,6 +1,6 @@
 # Waddle your way to ✨ Huddle ✨  
 
-## About  
+## "Huddle"  
 
 Huddle is a platform that makes finding hangout spots simple and quick. The name **"Huddle"** represents individuals coming together—a place of comfort and connection.  
 
