@@ -1,4 +1,4 @@
-# Waddle your way to ✨ Huddle 🐧 
+# Waddle your way to ✨ Huddle ✨  
 
 ## About  
 
